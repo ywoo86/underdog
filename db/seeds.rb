@@ -48,7 +48,7 @@ Team.create([
 a = Team.first
 b = Team.last
 
-Matchup.create({winner_id: a, loser_id: b})
+Matchup.create({:winner => a, :loser => b, :home_team_id => a, :away_team_id => b})
 
 User.create([
   { name: "Michael Woo", email: "michael@test.com", password_hash: "12345", subtotal: 0, total: 0, team_id: 23, admin: false},

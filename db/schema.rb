@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160923171237) do
+ActiveRecord::Schema.define(version: 20160923172621) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -21,8 +21,6 @@ ActiveRecord::Schema.define(version: 20160923171237) do
   end
 
   create_table "matchups", force: :cascade do |t|
-    t.integer "home_team"
-    t.integer "away_team"
     t.integer "winner_id"
     t.integer "loser_id"
     t.integer "home_team_id"
@@ -55,7 +53,5 @@ ActiveRecord::Schema.define(version: 20160923171237) do
     t.index ["team_id"], name: "index_users_on_team_id", using: :btree
   end
 
-  add_foreign_key "matchups", "teams", column: "away_team", name: "matchups_away_team_fkey"
-  add_foreign_key "matchups", "teams", column: "home_team", name: "matchups_home_team_fkey"
   add_foreign_key "users", "teams"
 end

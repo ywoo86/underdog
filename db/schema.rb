@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160923172621) do
+ActiveRecord::Schema.define(version: 20160923192033) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -21,14 +21,24 @@ ActiveRecord::Schema.define(version: 20160923172621) do
   end
 
   create_table "matchups", force: :cascade do |t|
-    t.integer "winner_id"
-    t.integer "loser_id"
     t.integer "home_team_id"
     t.integer "away_team_id"
+    t.integer "week"
     t.index ["away_team_id"], name: "index_matchups_on_away_team_id", using: :btree
     t.index ["home_team_id"], name: "index_matchups_on_home_team_id", using: :btree
-    t.index ["loser_id"], name: "index_matchups_on_loser_id", using: :btree
-    t.index ["winner_id"], name: "index_matchups_on_winner_id", using: :btree
+  end
+
+  create_table "picks", force: :cascade do |t|
+    t.datetime "created_at",   null: false
+    t.datetime "updated_at",   null: false
+    t.integer  "user_id"
+    t.integer  "matchup_1_id"
+    t.integer  "matchup_2_id"
+    t.integer  "matchup_3_id"
+    t.index ["matchup_1_id"], name: "index_picks_on_matchup_1_id", using: :btree
+    t.index ["matchup_2_id"], name: "index_picks_on_matchup_2_id", using: :btree
+    t.index ["matchup_3_id"], name: "index_picks_on_matchup_3_id", using: :btree
+    t.index ["user_id"], name: "index_picks_on_user_id", using: :btree
   end
 
   create_table "teams", force: :cascade do |t|

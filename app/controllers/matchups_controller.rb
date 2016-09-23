@@ -1,6 +1,7 @@
 class MatchupsController < ApplicationController
 
   def index
-    @match_ups = Matchup.all.with_results
+    @match_ups = Matchup.all
+
   end
 end

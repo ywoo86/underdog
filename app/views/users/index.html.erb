@@ -1,0 +1,10 @@
+<% @users.each do |user| %>
+  <ul>
+    <li><%= user.name %></li>
+    <li><%= user.email %></li>
+    <li><%= user.subtotal %></li>
+    <li><%= user.total %></li>
+    <li><%= user.team.name %></li>
+    <div><% image_tag user.team.image_url %></div>
+  </ul>
+<% end %>

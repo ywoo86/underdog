@@ -8,6 +8,7 @@
 
 Team.delete_all
 User.delete_all
+Matchup.delete_all
 
 Team.create([
   { name: "Arizona Cardinals", alias: "ARI", palette: "#9B2743", image_url: "ARI.png" },
@@ -44,7 +45,17 @@ Team.create([
   { name: "Washington Redskins", alias: "WAS", palette: "#773141", image_url: "WAS.gif" }
 ])
 
+a = Team.first
+b = Team.last
+
+Matchup.create({winner_id: a, loser_id: b})
+
 User.create([
   { name: "Michael Woo", email: "michael@test.com", password_hash: "12345", subtotal: 0, total: 0, team_id: 23, admin: false},
   { name: "Ricky Bobby", email: "ricky@test.com", password_hash: "12345", subtotal: 0, total: 0, team_id: 10, admin: false}
 ])
+
+puts "created #{Team.count} teams"
+puts "created #{Matchup.count} matchups"
+puts "created #{User.count} users"
+

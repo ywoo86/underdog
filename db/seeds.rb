@@ -45,6 +45,6 @@ Team.create([
 ])
 
 User.create([
-  { name: "Michael Woo", email: "michael@test.com", password_hash: "12345", subtotal: 0, total: 0, team_id: 23},
-  { name: "Ricky Bobby", email: "ricky@test.com", password_hash: "12345", subtotal: 0, total: 0, team_id: 10}
+  { name: "Michael Woo", email: "michael@test.com", password_hash: "12345", subtotal: 0, total: 0, team_id: 23, admin: false},
+  { name: "Ricky Bobby", email: "ricky@test.com", password_hash: "12345", subtotal: 0, total: 0, team_id: 10, admin: false}
 ])

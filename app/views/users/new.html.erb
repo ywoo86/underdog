@@ -1,0 +1,32 @@
+<%= form_for @user do |f| %>
+
+  <div class="field">
+    <%= f.label :name %>
+    <%= f.text_field :name %>
+  </div>
+
+  <div class="field">
+    <%= f.label :email %>
+    <%= f.text_field :email %>
+  </div>
+
+  <div class="field">
+    <%= f.label :password %>
+    <%= f.text_field :password_hash %>
+  </div>
+
+  <div class="field">
+    <%= f.label :team %>
+    <%= f.collection_select :team_id, @teams, :id, :name, include_blank: true %>
+  </div>
+
+  <input type="hidden" name="subtotal" value=0>
+  <input type="hidden" name="total" value=0>
+  <input type="hidden" name="admin" value=false>
+
+  <div class="actions">
+
+  <%= submit_tag "Submit" %>
+
+  </div>
+<% end %>

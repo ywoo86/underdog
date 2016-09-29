@@ -1,10 +1,13 @@
-<% @users.each do |user| %>
-  <ul>
-    <li><%= user.name %></li>
-    <li><%= user.email %></li>
-    <li><%= user.subtotal %></li>
-    <li><%= user.total %></li>
-    <li><%= user.team.name %></li>
-    <div><% image_tag user.team.image_url %></div>
-  </ul>
+<% if session[:type] == 'user' %>
+  <h1<%= @user.name %></h1>
+  <li><%= @user.email %></li>
+  <li><%= @user.subtotal %></li>
+  <li><%= @user.total %></li>
+  <li><%= @user.team.name %></li>
+  <div><%= image_tag @user.team.image_url, class: 'team-logo' %></div>
+<% elsif session[:type] == nil %>
+  <%= link_to 'Sign In', signin_path %>
+  <h1>Must Sign In To Make Picks</h1>
 <% end %>
+
+

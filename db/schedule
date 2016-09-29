@@ -1,0 +1,256 @@
+week: 1 home_team: Jacksonville Jaguars away_team: Green Bay Packers
+week: 1 home_team: Tennessee Titans away_team: Minnesota Vikings
+week: 1 home_team: Houston Texans away_team: Chicago Bears
+week: 1 home_team: Dallas Cowboys away_team: New York Giants
+week: 1 home_team: Atlanta Falcons away_team: Tampa Bay Buccaneers
+week: 1 home_team: Baltimore Ravens away_team: Buffalo Bills
+week: 1 home_team: Denver Broncos away_team: Carolina Panthers
+week: 1 home_team: Arizona Cardinals away_team: New England Patriots
+week: 1 home_team: Indianapolis Colts away_team: Detroit Lions
+week: 1 home_team: New York Jets away_team: Cincinnati Bengals
+week: 1 home_team: Washington Redskins away_team: Pittsburgh Steelers
+week: 1 home_team: New Orleans Saints away_team: Oakland Raiders
+week: 1 home_team: San Francisco 49ers away_team: Los Angeles Rams
+week: 1 home_team: Philadelphia Eagles away_team: Cleveland Browns
+week: 1 home_team: Kansas City Chiefs away_team: San Diego Chargers
+week: 1 home_team: Seattle Seahawks away_team: Miami Dolphins
+week: 2 home_team: Chicago Bears away_team: Philadelphia Eagles
+week: 2 home_team: Cleveland Browns away_team: Baltimore Ravens
+week: 2 home_team: Oakland Raiders away_team: Atlanta Falcons
+week: 2 home_team: Arizona Cardinals away_team: Tampa Bay Buccaneers
+week: 2 home_team: Pittsburgh Steelers away_team: Cincinnati Bengals
+week: 2 home_team: Washington Redskins away_team: Dallas Cowboys
+week: 2 home_team: Houston Texans away_team: Kansas City Chiefs
+week: 2 home_team: Carolina Panthers away_team: San Francisco 49ers
+week: 2 home_team: Buffalo Bills away_team: New York Jets
+week: 2 home_team: New York Giants away_team: New Orleans Saints
+week: 2 home_team: Denver Broncos away_team: Indianapolis Colts
+week: 2 home_team: Detroit Lions away_team: Tennessee Titans
+week: 2 home_team: Los Angeles Rams away_team: Seattle Seahawks
+week: 2 home_team: New England Patriots away_team: Miami Dolphins
+week: 2 home_team: Minnesota Vikings away_team: Green Bay Packers
+week: 2 home_team: San Diego Chargers away_team: Jacksonville Jaguars
+week: 3 home_team: Buffalo Bills away_team: Arizona Cardinals
+week: 3 home_team: Indianapolis Colts away_team: San Diego Chargers
+week: 3 home_team: Miami Dolphins away_team: Cleveland Browns
+week: 3 home_team: New York Giants away_team: Washington Redskins
+week: 3 home_team: Green Bay Packers away_team: Detroit Lions
+week: 3 home_team: Seattle Seahawks away_team: San Francisco 49ers
+week: 3 home_team: Jacksonville Jaguars away_team: Baltimore Ravens
+week: 3 home_team: Tennessee Titans away_team: Oakland Raiders
+week: 3 home_team: New England Patriots away_team: Houston Texans
+week: 3 home_team: Cincinnati Bengals away_team: Denver Broncos
+week: 3 home_team: Tampa Bay Buccaneers away_team: Los Angeles Rams
+week: 3 home_team: Kansas City Chiefs away_team: New York Jets
+week: 3 home_team: Philadelphia Eagles away_team: Pittsburgh Steelers
+week: 3 home_team: Dallas Cowboys away_team: Chicago Bears
+week: 3 home_team: New Orleans Saints away_team: Atlanta Falcons
+week: 3 home_team: Carolina Panthers away_team: Minnesota Vikings
+week: 4 home_team: New England Patriots away_team: Buffalo Bills
+week: 4 home_team: Minnesota Vikings away_team: New York Giants
+week: 4 home_team: Cincinnati Bengals away_team: Miami Dolphins
+week: 4 home_team: Atlanta Falcons away_team: Carolina Panthers
+week: 4 home_team: Baltimore Ravens away_team: Oakland Raiders
+week: 4 home_team: San Francisco 49ers away_team: Dallas Cowboys
+week: 4 home_team: Chicago Bears away_team: Detroit Lions
+week: 4 home_team: San Diego Chargers away_team: New Orleans Saints
+week: 4 home_team: Tampa Bay Buccaneers away_team: Denver Broncos
+week: 4 home_team: Jacksonville Jaguars away_team: Indianapolis Colts
+week: 4 home_team: Washington Redskins away_team: Cleveland Browns
+week: 4 home_team: New York Jets away_team: Seattle Seahawks
+week: 4 home_team: Pittsburgh Steelers away_team: Kansas City Chiefs
+week: 4 home_team: Houston Texans away_team: Tennessee Titans
+week: 4 home_team: Arizona Cardinals away_team: Los Angeles Rams
+week: 5 home_team: Pittsburgh Steelers away_team: New York Jets
+week: 5 home_team: Minnesota Vikings away_team: Houston Texans
+week: 5 home_team: Green Bay Packers away_team: New York Giants
+week: 5 home_team: Denver Broncos away_team: Atlanta Falcons
+week: 5 home_team: Los Angeles Rams away_team: Buffalo Bills
+week: 5 home_team: Baltimore Ravens away_team: Washington Redskins
+week: 5 home_team: Detroit Lions away_team: Philadelphia Eagles
+week: 5 home_team: Carolina Panthers away_team: Tampa Bay Buccaneers
+week: 5 home_team: Indianapolis Colts away_team: Chicago Bears
+week: 5 home_team: Oakland Raiders away_team: San Diego Chargers
+week: 5 home_team: Dallas Cowboys away_team: Cincinnati Bengals
+week: 5 home_team: San Francisco 49ers away_team: Arizona Cardinals
+week: 5 home_team: Cleveland Browns away_team: New England Patriots
+week: 5 home_team: Miami Dolphins away_team: Tennessee Titans
+week: 6 home_team: Seattle Seahawks away_team: Atlanta Falcons
+week: 6 home_team: New York Giants away_team: Baltimore Ravens
+week: 6 home_team: Detroit Lions away_team: Los Angeles Rams
+week: 6 home_team: Chicago Bears away_team: Jacksonville Jaguars
+week: 6 home_team: Miami Dolphins away_team: Pittsburgh Steelers
+week: 6 home_team: Oakland Raiders away_team: Kansas City Chiefs
+week: 6 home_team: New Orleans Saints away_team: Carolina Panthers
+week: 6 home_team: Washington Redskins away_team: Philadelphia Eagles
+week: 6 home_team: Buffalo Bills away_team: San Francisco 49ers
+week: 6 home_team: Houston Texans away_team: Indianapolis Colts
+week: 6 home_team: Green Bay Packers away_team: Dallas Cowboys
+week: 6 home_team: Tennessee Titans away_team: Cleveland Browns
+week: 6 home_team: Arizona Cardinals away_team: New York Jets
+week: 6 home_team: New England Patriots away_team: Cincinnati Bengals
+week: 6 home_team: San Diego Chargers away_team: Denver Broncos
+week: 7 home_team: Arizona Cardinals away_team: Seattle Seahawks
+week: 7 home_team: Denver Broncos away_team: Houston Texans
+week: 7 home_team: New York Jets away_team: Baltimore Ravens
+week: 7 home_team: Tennessee Titans away_team: Indianapolis Colts
+week: 7 home_team: Atlanta Falcons away_team: San Diego Chargers
+week: 7 home_team: Detroit Lions away_team: Washington Redskins
+week: 7 home_team: Cincinnati Bengals away_team: Cleveland Browns
+week: 7 home_team: Green Bay Packers away_team: Chicago Bears
+week: 7 home_team: Kansas City Chiefs away_team: New Orleans Saints
+week: 7 home_team: Los Angeles Rams away_team: New York Giants
+week: 7 home_team: Miami Dolphins away_team: Buffalo Bills
+week: 7 home_team: Philadelphia Eagles away_team: Minnesota Vikings
+week: 7 home_team: Pittsburgh Steelers away_team: New England Patriots
+week: 7 home_team: San Francisco 49ers away_team: Tampa Bay Buccaneers
+week: 7 home_team: Jacksonville Jaguars away_team: Oakland Raiders
+week: 8 home_team: Indianapolis Colts away_team: Kansas City Chiefs
+week: 8 home_team: Denver Broncos away_team: San Diego Chargers
+week: 8 home_team: Houston Texans away_team: Detroit Lions
+week: 8 home_team: New Orleans Saints away_team: Seattle Seahawks
+week: 8 home_team: Chicago Bears away_team: Minnesota Vikings
+week: 8 home_team: Carolina Panthers away_team: Arizona Cardinals
+week: 8 home_team: Dallas Cowboys away_team: Philadelphia Eagles
+week: 8 home_team: Cleveland Browns away_team: New York Jets
+week: 8 home_team: Atlanta Falcons away_team: Green Bay Packers
+week: 8 home_team: Cincinnati Bengals away_team: Washington Redskins
+week: 8 home_team: Buffalo Bills away_team: New England Patriots
+week: 8 home_team: Tampa Bay Buccaneers away_team: Oakland Raiders
+week: 8 home_team: Tennessee Titans away_team: Jacksonville Jaguars
+week: 9 home_team: Oakland Raiders away_team: Denver Broncos
+week: 9 home_team: San Diego Chargers away_team: Tennessee Titans
+week: 9 home_team: Tampa Bay Buccaneers away_team: Atlanta Falcons
+week: 9 home_team: Baltimore Ravens away_team: Pittsburgh Steelers
+week: 9 home_team: Cleveland Browns away_team: Dallas Cowboys
+week: 9 home_team: San Francisco 49ers away_team: New Orleans Saints
+week: 9 home_team: Los Angeles Rams away_team: Carolina Panthers
+week: 9 home_team: Miami Dolphins away_team: New York Jets
+week: 9 home_team: Minnesota Vikings away_team: Detroit Lions
+week: 9 home_team: Seattle Seahawks away_team: Buffalo Bills
+week: 9 home_team: New York Giants away_team: Philadelphia Eagles
+week: 9 home_team: Kansas City Chiefs away_team: Jacksonville Jaguars
+week: 9 home_team: Green Bay Packers away_team: Indianapolis Colts
+week: 10 home_team: New England Patriots away_team: Seattle Seahawks
+week: 10 home_team: San Diego Chargers away_team: Miami Dolphins
+week: 10 home_team: Washington Redskins away_team: Minnesota Vikings
+week: 10 home_team: Pittsburgh Steelers away_team: Dallas Cowboys
+week: 10 home_team: New York Jets away_team: Los Angeles Rams
+week: 10 home_team: Arizona Cardinals away_team: San Francisco 49ers
+week: 10 home_team: Carolina Panthers away_team: Kansas City Chiefs
+week: 10 home_team: Philadelphia Eagles away_team: Atlanta Falcons
+week: 10 home_team: Baltimore Ravens away_team: Cleveland Browns
+week: 10 home_team: Tennessee Titans away_team: Green Bay Packers
+week: 10 home_team: Jacksonville Jaguars away_team: Houston Texans
+week: 10 home_team: New Orleans Saints away_team: Denver Broncos
+week: 10 home_team: Tampa Bay Buccaneers away_team: Chicago Bears
+week: 10 home_team: New York Giants away_team: Cincinnati Bengals
+week: 11 home_team: Seattle Seahawks away_team: Philadelphia Eagles
+week: 11 home_team: Cleveland Browns away_team: Pittsburgh Steelers
+week: 11 home_team: Washington Redskins away_team: Green Bay Packers
+week: 11 home_team: Minnesota Vikings away_team: Arizona Cardinals
+week: 11 home_team: Cincinnati Bengals away_team: Buffalo Bills
+week: 11 home_team: San Francisco 49ers away_team: New England Patriots
+week: 11 home_team: Dallas Cowboys away_team: Baltimore Ravens
+week: 11 home_team: Oakland Raiders away_team: Houston Texans
+week: 11 home_team: Carolina Panthers away_team: New Orleans Saints
+week: 11 home_team: Detroit Lions away_team: Jacksonville Jaguars
+week: 11 home_team: Los Angeles Rams away_team: Miami Dolphins
+week: 11 home_team: Kansas City Chiefs away_team: Tampa Bay Buccaneers
+week: 11 home_team: Indianapolis Colts away_team: Tennessee Titans
+week: 11 home_team: New York Giants away_team: Chicago Bears
+week: 12 home_team: New York Jets away_team: New England Patriots
+week: 12 home_team: Philadelphia Eagles away_team: Green Bay Packers
+week: 12 home_team: Atlanta Falcons away_team: Arizona Cardinals
+week: 12 home_team: New Orleans Saints away_team: Los Angeles Rams
+week: 12 home_team: Denver Broncos away_team: Kansas City Chiefs
+week: 12 home_team: Houston Texans away_team: San Diego Chargers
+week: 12 home_team: Dallas Cowboys away_team: Washington Redskins
+week: 12 home_team: Baltimore Ravens away_team: Cincinnati Bengals
+week: 12 home_team: Buffalo Bills away_team: Jacksonville Jaguars
+week: 12 home_team: Tampa Bay Buccaneers away_team: Seattle Seahawks
+week: 12 home_team: Miami Dolphins away_team: San Francisco 49ers
+week: 12 home_team: Cleveland Browns away_team: New York Giants
+week: 12 home_team: Oakland Raiders away_team: Carolina Panthers
+week: 12 home_team: Chicago Bears away_team: Tennessee Titans
+week: 12 home_team: Detroit Lions away_team: Minnesota Vikings
+week: 12 home_team: Indianapolis Colts away_team: Pittsburgh Steelers
+week: 13 home_team: New York Jets away_team: Indianapolis Colts
+week: 13 home_team: Arizona Cardinals away_team: Washington Redskins
+week: 13 home_team: Jacksonville Jaguars away_team: Denver Broncos
+week: 13 home_team: Baltimore Ravens away_team: Miami Dolphins
+week: 13 home_team: Green Bay Packers away_team: Houston Texans
+week: 13 home_team: Atlanta Falcons away_team: Kansas City Chiefs
+week: 13 home_team: Chicago Bears away_team: San Francisco 49ers
+week: 13 home_team: Oakland Raiders away_team: Buffalo Bills
+week: 13 home_team: Cincinnati Bengals away_team: Philadelphia Eagles
+week: 13 home_team: San Diego Chargers away_team: Tampa Bay Buccaneers
+week: 13 home_team: New England Patriots away_team: Los Angeles Rams
+week: 13 home_team: Pittsburgh Steelers away_team: New York Giants
+week: 13 home_team: Minnesota Vikings away_team: Dallas Cowboys
+week: 13 home_team: New Orleans Saints away_team: Detroit Lions
+week: 13 home_team: Seattle Seahawks away_team: Carolina Panthers
+week: 14 home_team: New England Patriots away_team: Baltimore Ravens
+week: 14 home_team: Philadelphia Eagles away_team: Washington Redskins
+week: 14 home_team: Green Bay Packers away_team: Seattle Seahawks
+week: 14 home_team: Miami Dolphins away_team: Arizona Cardinals
+week: 14 home_team: Tampa Bay Buccaneers away_team: New Orleans Saints
+week: 14 home_team: Tennessee Titans away_team: Denver Broncos
+week: 14 home_team: Kansas City Chiefs away_team: Oakland Raiders
+week: 14 home_team: Los Angeles Rams away_team: Atlanta Falcons
+week: 14 home_team: Detroit Lions away_team: Chicago Bears
+week: 14 home_team: San Francisco 49ers away_team: New York Jets
+week: 14 home_team: New York Giants away_team: Dallas Cowboys
+week: 14 home_team: Buffalo Bills away_team: Pittsburgh Steelers
+week: 14 home_team: Carolina Panthers away_team: San Diego Chargers
+week: 14 home_team: Jacksonville Jaguars away_team: Minnesota Vikings
+week: 14 home_team: Indianapolis Colts away_team: Houston Texans
+week: 14 home_team: Cleveland Browns away_team: Cincinnati Bengals
+week: 15 home_team: Minnesota Vikings away_team: Indianapolis Colts
+week: 15 home_team: New York Giants away_team: Detroit Lions
+week: 15 home_team: Cincinnati Bengals away_team: Pittsburgh Steelers
+week: 15 home_team: Seattle Seahawks away_team: Los Angeles Rams
+week: 15 home_team: Kansas City Chiefs away_team: Tennessee Titans
+week: 15 home_team: Arizona Cardinals away_team: New Orleans Saints
+week: 15 home_team: Washington Redskins away_team: Carolina Panthers
+week: 15 home_team: Baltimore Ravens away_team: Philadelphia Eagles
+week: 15 home_team: Chicago Bears away_team: Green Bay Packers
+week: 15 home_team: Houston Texans away_team: Jacksonville Jaguars
+week: 15 home_team: Denver Broncos away_team: New England Patriots
+week: 15 home_team: Atlanta Falcons away_team: San Francisco 49ers
+week: 15 home_team: San Diego Chargers away_team: Oakland Raiders
+week: 15 home_team: New York Jets away_team: Miami Dolphins
+week: 15 home_team: Buffalo Bills away_team: Cleveland Browns
+week: 15 home_team: Dallas Cowboys away_team: Tampa Bay Buccaneers
+week: 16 home_team: Green Bay Packers away_team: Minnesota Vikings
+week: 16 home_team: New Orleans Saints away_team: Tampa Bay Buccaneers
+week: 16 home_team: Carolina Panthers away_team: Atlanta Falcons
+week: 16 home_team: Chicago Bears away_team: Washington Redskins
+week: 16 home_team: Jacksonville Jaguars away_team: Tennessee Titans
+week: 16 home_team: New England Patriots away_team: New York Jets
+week: 16 home_team: Philadelphia Eagles away_team: New York Giants
+week: 16 home_team: Kansas City Chiefs away_team: Denver Broncos
+week: 16 home_team: Pittsburgh Steelers away_team: Baltimore Ravens
+week: 16 home_team: Seattle Seahawks away_team: Arizona Cardinals
+week: 16 home_team: Los Angeles Rams away_team: San Francisco 49ers
+week: 16 home_team: Houston Texans away_team: Cincinnati Bengals
+week: 16 home_team: Cleveland Browns away_team: San Diego Chargers
+week: 16 home_team: Oakland Raiders away_team: Indianapolis Colts
+week: 16 home_team: Dallas Cowboys away_team: Detroit Lions
+week: 16 home_team: Buffalo Bills away_team: Miami Dolphins
+week: 17 home_team: Pittsburgh Steelers away_team: Cleveland Browns
+week: 17 home_team: Minnesota Vikings away_team: Chicago Bears
+week: 17 home_team: Miami Dolphins away_team: New England Patriots
+week: 17 home_team: Cincinnati Bengals away_team: Baltimore Ravens
+week: 17 home_team: Tampa Bay Buccaneers away_team: Carolina Panthers
+week: 17 home_team: Tennessee Titans away_team: Houston Texans
+week: 17 home_team: Los Angeles Rams away_team: Arizona Cardinals
+week: 17 home_team: Washington Redskins away_team: New York Giants
+week: 17 home_team: Philadelphia Eagles away_team: Dallas Cowboys
+week: 17 home_team: Atlanta Falcons away_team: New Orleans Saints
+week: 17 home_team: New York Jets away_team: Buffalo Bills
+week: 17 home_team: Denver Broncos away_team: Oakland Raiders
+week: 17 home_team: Indianapolis Colts away_team: Jacksonville Jaguars
+week: 17 home_team: San Francisco 49ers away_team: Seattle Seahawks
+week: 17 home_team: San Diego Chargers away_team: Kansas City Chiefs
+week: 17 home_team: Detroit Lions away_team: Green Bay Packers

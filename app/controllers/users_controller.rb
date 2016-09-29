@@ -23,19 +23,24 @@ class UsersController < ApplicationController
     @user = User.new(user_params)
     @user.password = params[:password_hash]
     @user.save!
-
-    user = User.find_by(id: )
-    redirect_to '/users'
+    # user = User.find_by_email(@user.email)
+    # session[:user_id] = user.id
+    # if user.admin == false
+    #   session[:type] = 'user'
+    # elsif user.admin == true
+    #   session[:type] = 'admin'
+    # end
+    redirect_to '/matchups'
   end
 
   def update
     @user.update(user_params)
-    redirect_to '/users'
+    redirect_to '/matchups'
   end
 
   def destroy
     @user.destroy
-    redirect_to '/users'
+    redirect_to '/matchups'
   end
 
 

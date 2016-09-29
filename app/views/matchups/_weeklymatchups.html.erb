@@ -1,0 +1,5 @@
+<% @matchups.each do |matchup| %>
+  <div><%= image_tag matchup.away_team_id.image_url, class: "team-logo" %> at <%= image_tag matchup.home_team_id.image_url, class: "team-logo" %></div><br />
+<% end %>
+
+<!-- sign in button -->

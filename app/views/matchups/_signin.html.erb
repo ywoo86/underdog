@@ -1,0 +1,26 @@
+<%= form_tag controller: :sessions, action: 'create', method: 'post' %>
+
+  <div class="field">
+    <%= label_tag :email %>
+    <%= text_field_tag :email %>
+  </div>
+
+  <div class="field">
+    <%= label_tag :password %>
+    <%= text_field_tag :password_hash %>
+  </div>
+
+
+
+
+  <input type="hidden" name="team" value=1>
+  <input type="hidden" name="subtotal" value=0>
+  <input type="hidden" name="total" value=0>
+  <input type="hidden" name="admin" value=false>
+
+  <div class="actions">
+
+  <%= submit_tag "Submit" %>
+
+  </div>
+

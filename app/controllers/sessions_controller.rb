@@ -8,12 +8,12 @@ class SessionsController < ApplicationController
       session[:user_id] = user.id
       session[:type] = 'user'
     end
-    redirect_to '/users'
+    redirect_to '/matchups'
   end
 
   def destroy
     session[:user_id] = nil
     session[:type] = nil
-    redirect_to '/users'
+    redirect_to '/matchups'
   end
 end
